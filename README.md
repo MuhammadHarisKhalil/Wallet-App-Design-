@@ -4,14 +4,14 @@ This is the modern currency of world.The world is moving towrad the digital curr
 <h2>Screen In App</h2>
 <ul>
   <li>
-  Splash Screen
-  Login
-  Signup
-  Home
-  Profile
-  Virtual Card
-  Game
-  Virtual Market
+  Splash Screen </li>
+ <li> Login </li>
+ <li> Signup </li>
+ <li> Home </li>
+ <li> Profile </li>
+  <li>Virtual Card </li>
+ <li> Game </li>
+  <li>Virtual Market
   </li></ul>
   
 
