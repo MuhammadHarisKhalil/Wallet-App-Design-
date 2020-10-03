@@ -16,9 +16,11 @@ This is the modern currency of world.The world is moving towrad the digital curr
   
   <h2>Splash Screen</h2>
   First Screen of my app its just show some feature of app. For Example<br>
- <tr>
-  <td><img src="https://github.com/hariskhalil42/Wallet-App-Design-/blob/main/ScreenShot/Splash%20screen.png" width="300" height="400" /></td>
-  <td><img src="https://github.com/hariskhalil42/Wallet-App-Design-/blob/main/ScreenShot/Splash%20screen%20%E2%80%93%201.png" width="300" height="400" /></td>
-  <td><img src="https://github.com/hariskhalil42/Wallet-App-Design-/blob/main/ScreenShot/Splash%20screen%20%E2%80%93%203.png" width="300" height="400" /></td>
-   </tr>
+<table>
+  <tr>
+<td><img src="https://github.com/hariskhalil42/Wallet-App-Design-/blob/main/ScreenShot/Splash%20screen.png" width="300" height="400" /></td> 
+<td> <img src="https://github.com/hariskhalil42/Wallet-App-Design-/blob/main/ScreenShot/Splash%20screen%20%E2%80%93%201.png" width="300" height="400" /></td>
+<td> <img src="https://github.com/hariskhalil42/Wallet-App-Design-/blob/main/ScreenShot/Splash%20screen%20%E2%80%93%203.png" width="300" height="400" /></td>
+  </tr>
+  </table>
 <img src="https://github.com/hariskhalil42/Wallet-App-Design-/blob/main/ScreenShot/Game%20%E2%80%93%201.png" width="300" height="400" />
