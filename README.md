@@ -1,6 +1,7 @@
 # Wallet-App-Design
 
 This is the modern currency of the world. The world is moving toward the digital currency so this app is good for modern world.<br>
+<h3>My trello link is <a href="https://trello.com/b/Zm05CHgm/wallet-project">here</a></h3> 
 <h2>Screen In App</h2>
 <ul>
   <li>
@@ -31,7 +32,7 @@ This is the modern currency of the world. The world is moving toward the digital
  If you are not registered on the app, then register yourself.
  <table>
   <tr>
-<td> <img src="https://github.com/hariskhalil42/Wallet-App-Design-/blob/main/ScreenShot/Signup.png" width="300" height="400" /></td>
+<td> <img src="https://github.com/hariskhalil42/Wallet-App-Design-/blob/main/ScreenShot/Signup.png" width="300"  height="400" /></td>
 <td><img src="https://github.com/hariskhalil42/Wallet-App-Design-/blob/main/ScreenShot/Signup%20%E2%80%93%201.png" width="300" height="400" /></td> 
 <td> <img src="https://github.com/hariskhalil42/Wallet-App-Design-/blob/main/ScreenShot/Signup%20%E2%80%93%202.png" width="300" height="400" /></td>
   </tr>
