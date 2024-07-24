@@ -39,9 +39,6 @@ This is the modern currency of the world. The world is moving toward the digital
   </table>
  <h2>Home Screen</h2>
  <img src="https://github.com/hariskhalil42/Wallet-App-Design-/blob/main/ScreenShot/Home%20Screen.png" width="300" height="400" />
- <h2>Profile Screen</h2>
- In this Screen, users can see info about themselves.
- <img src="https://github.com/hariskhalil42/Wallet-App-Design-/blob/main/ScreenShot/Profile.png" width="300" height="400" />
  <h2>Virtual Card Screen</h2>
  In this screen, you can add a card for making transactions and also check previous transactions.
   <table>
